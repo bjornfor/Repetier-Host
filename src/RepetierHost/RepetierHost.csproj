@@ -480,7 +480,7 @@
     <Compile Include="view\utils\ColorSlider.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="view\utils\ColorSlider.designer.cs">
+    <Compile Include="view\utils\ColorSlider.Designer.cs">
       <DependentUpon>ColorSlider.cs</DependentUpon>
     </Compile>
     <Compile Include="view\utils\CommandExecutioner.cs" />
